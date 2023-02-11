@@ -1,4 +1,4 @@
-// Copyright (C) Oleg Lysiak - All Rights Reserved
+// Copyright (C) GRANDPA HACKER - All Rights Reserved
 package config
 
 import (
@@ -16,7 +16,7 @@ var (
 
 type configStruct struct {
 	// json token and bot prefix
-	Token     string `json : "MTAzOTg5NjMxNDk2MTQ3NzY3Mg.Ge1Zpi.k3lsJUBf3UtyoZr8ey2lG8n3w2mW_S3bJmfHQo"`
+	Token     string `json : "MTA228NzA1OTM4NzY3MzM0NjA3OA.GpnaHG.HAY9unzUaKfLCFu3a72ptqCEZyU6ELC2xa9rPs"`
 	BotPrefix string `json : "$$"`
 }
 

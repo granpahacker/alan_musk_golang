@@ -1,4 +1,4 @@
-// Copyright (C) Oleg Lysiak - All Rights Reserved
+// Copyright (C) GRANDPA HACKER - All Rights Reserved
 package main
 
 import (

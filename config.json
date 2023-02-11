@@ -1,5 +1,5 @@
 {
-    "Token" : "MTAzOTg5NjMxNDk2MTQ3NzY3Mg.Ge1Zpi.k3lsJUBf3UtyoZr8ey2lG8n3w2mW_S3bJmfHQo",
-    "BotPrefix": "$$",
+    "Token" : "MTA228NzA1OTM4NzY3MzM0NjA3OA.GpnaHG.HAY9unzUaKfLCFu3a72ptqCEZyU6ELC2xa9rPs",
+    "BotPrefix": "/",
     "Comment" : "Dont forget to change token at config.go"
-}
+}    
